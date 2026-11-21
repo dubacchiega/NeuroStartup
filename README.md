@@ -2,6 +2,8 @@
 
 Atividade Prática 3 · IA e Machine Learning · Prof. Hercules Ramos
 
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dubacchiega/NeuroStartup/blob/main/NeuroStartup_roupas.ipynb)
+
 ## Integrantes
 
 | Nome | R.A. |
