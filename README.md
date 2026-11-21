@@ -58,8 +58,6 @@ Os dados (Fashion-MNIST) são baixados automaticamente pelo Keras. Não é preci
 
 ## Declaração de uso de IA
 
-> (Preencher com honestidade: quais ferramentas de IA foram usadas, em quais partes e para quê. Exemplo de formato abaixo.)
-
 - Ferramenta: Claude
 - Onde usamos: estrutura inicial do notebook, revisão do código e auxílio no README
 
