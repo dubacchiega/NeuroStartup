@@ -6,10 +6,10 @@ Atividade Prática 3 · IA e Machine Learning · Prof. Hercules Ramos
 
 | Nome | R.A. |
 |---|---|
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
+| Eduardo Rafael Bacchiega | 1749416 |
+| Diego Rossetto do Nascimento | 1727950 |
+| Walace Alves de Araújo | 1327400 |
+| Marcos da Silva Teixeira | 2158303 |
 
 ## O problema (em linguagem de negócio)
 
