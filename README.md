@@ -58,11 +58,8 @@ Os dados (Fashion-MNIST) são baixados automaticamente pelo Keras. Não é preci
 
 > (Preencher com honestidade: quais ferramentas de IA foram usadas, em quais partes e para quê. Exemplo de formato abaixo.)
 
-- Ferramenta: __________ (ex.: Claude / ChatGPT / agente)
-- Onde usamos: __________ (ex.: estrutura inicial do notebook, revisão do código, redação do README)
-- O que o grupo revisou, alterou e testou por conta própria: __________
-
-Todos os integrantes sabem explicar qualquer parte do projeto.
+- Ferramenta: Claude
+- Onde usamos: estrutura inicial do notebook, revisão do código e auxílio no README
 
 ## Segurança
 
